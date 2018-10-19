@@ -1,0 +1,46 @@
+empleado toma pedido
+se hizo un pedido y se cancela
+cliente modifica pedido
+
+ahora se divide en subsistemas para llegar al dfd figura 0,con nivelacion ascendente
+
+mesa de atencion-1
+
+	la entrada y salida de gente del restaurante
+
+atencion al cliente-2
+
+	desde que el cliente esta ubicado en la mesa,se modifica pedido
+	empleado retira de la cocina los platos,pedidos y lo entrega
+
+atencion de cocina-3
+
+	cocinero toma pedido,y una vez que esta echo lo termina,cocian avisa que esta terminado
+	el empleado lo toma y se lo entrega al cliente,problemas con anomalia
+	
+
+
+factura y cierre-4
+
+	abarca el cierre de cuenta,el pago y el cierre de mesa
+
+
+
+
+empleado oma edido
+empleado actualiza pedido
+empleado registra cierre cuenta
+empleado toma pedido y entrega
+
+
+tipo de pasta y salsas
+agregar para las salsas
+
+
+yo tengo que seguir con empleado toma pedido,los demas ya los
+estan haciendo los otros chicos/as,ya que no es una burbuja atomica
+lo voy a tener que seguir explotando,el icono cambia depende del
+empleado que tomo el pedido
+
+
+	
