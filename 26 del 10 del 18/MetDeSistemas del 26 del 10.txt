@@ -1,0 +1,29 @@
+a partir de la figura 0 vamos a hacer el nivel descendente,despues de dividirlo por subsistemas
+nos ubicamos
+	
+	adentro tiene acontecimientos y alcamecenes locales,vemos que flujos entran y salen
+	(en la presentacion no ponemos los acontecimientos,es una ayuda)
+	sin considerar las entidades externas
+	con respecto a los almacenes esenciales,ponemos que lee y que escribe,sin colocarles nombres
+	si se complica con las lineas aplicamos el concepto de duplicar,poniendole un asterisco
+
+
+	ponemos el numero de los acontecimientos,y los almacenes locales
+
+
+	nos va a pasar en varios almacenes,que se lee sin tener nada
+	para esto vamos a tener un sistema general,donde se actualizan las tablas auxiliares,para ya tener datos en si
+	(igual no lo ponemos)
+
+
+
+
+atenc al cliente
+
+	TiposDeProducto
+	Productos-Menues
+	TiposDeEmpleados
+	PedidosProducto
+
+	Empleado toma pedido
+	Empleado actualiza pedido
